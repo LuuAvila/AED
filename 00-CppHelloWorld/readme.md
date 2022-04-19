@@ -1,4 +1,4 @@
-# Grupo 1 
+# Grupo
 - Autor:
   - LuuAvila
   - 176-025.7
